@@ -1,5 +1,19 @@
+# Visual Studio files
 .vs/
-*.sqlite
-*.user
-bin/
-obj/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
